@@ -1,1 +1,4 @@
-# Simple menu with glowing effect
+# Simple menu with hover glowing effect
+- html
+- scss
+- js
