@@ -18,11 +18,6 @@ body {
             width: 100%;
             text-align: center;
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-<<<<<<< HEAD
-            font-size: 5rem;
-            line-height: 5ch;
-            color: #fff;
-=======
             -webkit-text-stroke: 1px #919191;
             text-shadow: 0 0 2px #fff,
                         0 0 6px #ddd,
@@ -31,7 +26,6 @@ body {
             font-size: clamp(2rem, 7vw, 5rem);
             line-height: 3.5ch;
             color: #222;
->>>>>>> f2ffca8 (Fine tuning)
             transform: translateY(-100%);
             animation: scrollIt 500ms 500ms forwards;
         }
@@ -40,12 +34,8 @@ body {
             width: 80%;
             color: #fff;
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-<<<<<<< HEAD
-            font-size: 1rem;
-=======
             font-size: clamp(0.5rem, 2vw, 0.8rem);
             text-align: justify;
->>>>>>> f2ffca8 (Fine tuning)
             margin: 0 auto;
             transform: translateY(200%);
             animation: scrollIt 500ms 500ms forwards;
@@ -68,18 +58,11 @@ body {
                 list-style: none;
                 a {
                     text-decoration: none;
-<<<<<<< HEAD
                     color: #fff;
-                    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-                    font-size: 2.5rem;
-                    text-transform: uppercase;
-=======
-                    color: #919191;
                     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
                     font-size: clamp(1rem, 3vw, 2.5rem);
                     text-transform: uppercase;
                     letter-spacing: 4px;
->>>>>>> f2ffca8 (Fine tuning)
                 }
                 a:hover {
                     span {
